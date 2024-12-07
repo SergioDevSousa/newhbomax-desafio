@@ -1,4 +1,4 @@
-<img src="assets/images/readme-images/cover.png">
+<img src="./assets/imagens/readme-images/cover.png">
 
 <h1 align="center">Site HBO Max</h1>
 <h4 align="center">Clone com modificações</h4>
@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://micheleambrosio.github.io/hbomax/">
-  <img src="assets/images/readme-images/cover-2.png">
+  <img src="./assets/imagens/readme-images/cover-2.png">
 </a>
 
 ## 📎 Sumário
@@ -113,7 +113,7 @@ Para implementar a barra de rolagem personalizada, como no exemplo, adicione na 
   }
 ```
 
-O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="https://micheleambrosio.github.io/hbomax/">resultado final</a>.
+O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="">resultado final</a>.
 
 As fontes utilizadas no projeto foram:
 
